@@ -157,6 +157,7 @@ registry.ci.openshift.org/origin/4.9:leader-elector quay.io/openshift/origin-lea
 registry.ci.openshift.org/origin/4.9:libvirt-installer quay.io/openshift/origin-libvirt-installer:4.9 quay.io/openshift/origin-libvirt-installer:4.9.0
 registry.ci.openshift.org/origin/4.9:libvirt-machine-controllers quay.io/openshift/origin-libvirt-machine-controllers:4.9 quay.io/openshift/origin-libvirt-machine-controllers:4.9.0
 registry.ci.openshift.org/origin/4.9:local-storage-diskmaker quay.io/openshift/origin-local-storage-diskmaker:4.9 quay.io/openshift/origin-local-storage-diskmaker:4.9.0
+registry.ci.openshift.org/origin/4.9:local-storage-mustgather quay.io/openshift/origin-local-storage-mustgather:4.9 quay.io/openshift/origin-local-storage-mustgather:4.9.0
 registry.ci.openshift.org/origin/4.9:local-storage-operator quay.io/openshift/origin-local-storage-operator:4.9 quay.io/openshift/origin-local-storage-operator:4.9.0
 registry.ci.openshift.org/origin/4.9:local-storage-static-provisioner quay.io/openshift/origin-local-storage-static-provisioner:4.9 quay.io/openshift/origin-local-storage-static-provisioner:4.9.0
 registry.ci.openshift.org/origin/4.9:logging-ci-test-runner quay.io/openshift/origin-logging-ci-test-runner:4.9 quay.io/openshift/origin-logging-ci-test-runner:4.9.0
